@@ -1,5 +1,5 @@
 {
-  "name": "ifdef-loader",
+  "name": "cb-ifdef-loader",
   "version": "2.0.3",
   "description": "",
   "main": "ifdef-loader.js",

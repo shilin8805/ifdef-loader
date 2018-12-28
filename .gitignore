@@ -4,3 +4,4 @@ node_modules/
 !**/*.in.js
 !**/*.out.js
 !**/*webpack*.js
+.idea
